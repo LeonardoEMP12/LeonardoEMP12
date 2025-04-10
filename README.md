@@ -6,7 +6,7 @@
 - 📝 Escribo artículos regularmente en [LinkedIn](https://www.linkedin.com/in/leonardo-medina/)
 - 💬 Pregúntame sobre **Desarrollo frontend, React, Next.js, JavaScript y diseño responsivo.**
 - 📫 Cómo contactarme: **leonardomedina5017@gmail.com**
-- ⚡ Dato curioso: **Creo que soy gracioso.**
+- ⚡ Dato curioso: **Cuando no estoy programando estoy viendo fútbol.**
 
 ---
 
