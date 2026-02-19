@@ -74,11 +74,12 @@
 
 ---
 
-<h3 align="left">📊 Estadísticas de GitHub:</h3>
+<h3 align="left">🌐 Mis últimas webs:</h3>
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoemp12&layout=compact&theme=radical" 
-    alt="Lenguajes más usados" 
-  />
+  <a href="https://mobest.es/" target="_blank">Mobest</a> – Creada con <strong>WordPress + Elementor</strong>, desde el proceso creativo hasta el desarrollo final.<br>
+  <a href="https://alukraft.es/" target="_blank">Alukraft</a> – Creada con <strong>WordPress + Elementor</strong>, diseño y desarrollo completo.<br>
+  <a href="https://www.axerocan.com/" target="_blank">Axerocan</a> – Creada con <strong>WordPress + Elementor</strong>, planificación, diseño y desarrollo final.<br>
+  <a href="https://waloconsulting.com/" target="_blank">Waloconsulting</a> – Desarrollada con <strong>Odoo</strong>, incluyendo la configuración y personalización final.
 </p>
+
 
