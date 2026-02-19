@@ -76,5 +76,9 @@
 
 <h3 align="left">📊 Estadísticas de GitHub:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoemp12&layout=compact&theme=radical" alt="top-langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoemp12&layout=compact&theme=radical" 
+    alt="Lenguajes más usados" 
+  />
 </p>
+
