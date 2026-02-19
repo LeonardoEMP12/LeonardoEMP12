@@ -77,7 +77,7 @@
 <h3 align="left">🌐 Mis últimas webs:</h3>
 <p align="left">
   <a href="https://mobest.es/" target="_blank">Mobest</a> – Creada con <strong>WordPress + Elementor</strong>, desde el proceso creativo hasta el desarrollo final.<br>
-  <a href="https://alukraft.es/" target="_blank">Alukraft</a> – Creada con <strong>WordPress + Elementor</strong>, diseño y desarrollo completo.<br>
+  <a href="https://alukraft.es/" target="_blank">Alukraft</a> – Creada con <strong>WordPress + Elementor</strong> y <strong>CSS personalizado</strong>, incluyendo diseño y desarrollo completo.<br>
   <a href="https://www.axerocan.com/" target="_blank">Axerocan</a> – Creada con <strong>WordPress + Elementor</strong>, planificación, diseño y desarrollo final.<br>
   <a href="https://waloconsulting.com/" target="_blank">Waloconsulting</a> – Desarrollada con <strong>Odoo</strong>, incluyendo la configuración y personalización final.
 </p>
