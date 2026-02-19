@@ -51,6 +51,7 @@
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Divi](https://img.shields.io/badge/-Divi-9900EF?style=for-the-badge&logo=divi&logoColor=white)
+![Elementor](https://img.shields.io/badge/-Elementor-0A84FF?style=for-the-badge&logo=elementor&logoColor=white)
 ![PrestaShop](https://img.shields.io/badge/-PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Yoast SEO](https://img.shields.io/badge/-Yoast-AC0080?style=for-the-badge&logo=yoast&logoColor=white)
